@@ -3,3 +3,5 @@
 ################################################################################
 
 *.suo
+/Azure/Azure-CosmoDb/bin/Debug/net5.0
+/Azure/Azure-CosmoDb/obj
